@@ -1,0 +1,38 @@
+#login{
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.inp{
+    width: 100%;
+    background: #171a1f;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;    
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.inp input{
+    background: none;
+    outline: none;
+    border:none;
+    color:white;
+    padding-left: 10px;
+}
+button{
+    background: #e85555;
+    border:none;
+    outline: none;
+    color:white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    margin-top: 10px;
+
+}
